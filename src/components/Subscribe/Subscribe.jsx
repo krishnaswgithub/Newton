@@ -41,7 +41,7 @@ const Subscribe = () => {
             </a>
             <div>+91 8787698760 (Krishna Das)</div>
             <div>+91 8787784800 (Sayon Sen)</div>
-            <div>+91 7629870348 (BappaDas)</div>
+            <div>+91 7629870348 (Bappa Das)</div>
           </div>
         </motion.div>
       </motion.div>
