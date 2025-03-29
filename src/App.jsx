@@ -11,6 +11,7 @@ const App = () => {
   return (
     <main className="overflow-x-hidden bg-white text-dark">
       <Navbar/>
+      <br />
       <Hero />
       <Services />
       <Banner />

@@ -83,7 +83,7 @@ const Footer = () => {
             </div>
             <div>+91 8787698760 (Krishna Das)</div>
             <div>+91 8787784800 (Sayon Sen)</div>
-            <div>+91 7629870348 (BappaDas)</div>
+            <div>+91 7629870348 (Bappa Das)</div>
             {/* social icons */}
             <div className="flex space-x-6 py-3">
               <a href="https://wa.me/+918787698760">
